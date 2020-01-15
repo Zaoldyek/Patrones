@@ -1,0 +1,6 @@
+C:\Users\antonio.guillemin\source\repos\Factory\Builder\bin\Debug\Builder.exe.config
+C:\Users\antonio.guillemin\source\repos\Factory\Builder\bin\Debug\Builder.exe
+C:\Users\antonio.guillemin\source\repos\Factory\Builder\bin\Debug\Builder.pdb
+C:\Users\antonio.guillemin\source\repos\Factory\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\antonio.guillemin\source\repos\Factory\Builder\obj\Debug\Builder.exe
+C:\Users\antonio.guillemin\source\repos\Factory\Builder\obj\Debug\Builder.pdb

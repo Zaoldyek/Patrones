@@ -1,0 +1,7 @@
+C:\Users\antonio.guillemin\source\repos\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\antonio.guillemin\source\repos\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\antonio.guillemin\source\repos\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\antonio.guillemin\source\repos\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\antonio.guillemin\source\repos\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\antonio.guillemin\source\repos\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\antonio.guillemin\source\repos\Factory\Factory\obj\Debug\Factory.pdb
