@@ -43,6 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Client.cs" />
+    <Compile Include="ConcreteProductCheckBox2.cs" />
+    <Compile Include="ConcreteFactoryMac.cs" />
+    <Compile Include="ConcreteFactoryWindows.cs" />
+    <Compile Include="ConcreteProductButton1.cs" />
+    <Compile Include="ConcreteProductButton2.cs" />
+    <Compile Include="ConcreteProductCheckBox1.cs" />
+    <Compile Include="ConcreteProductRadio1.cs" />
+    <Compile Include="ConcreteProductRadio2.cs" />
+    <Compile Include="GUIFactory.cs" />
+    <Compile Include="IAbstractButton.cs" />
+    <Compile Include="IAbstractCheckBox.cs" />
+    <Compile Include="IAbstractRadio.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

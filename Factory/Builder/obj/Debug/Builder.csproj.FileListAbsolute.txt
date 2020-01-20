@@ -4,3 +4,10 @@ C:\Users\antonio.guillemin\source\repos\Factory\Builder\bin\Debug\Builder.pdb
 C:\Users\antonio.guillemin\source\repos\Factory\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
 C:\Users\antonio.guillemin\source\repos\Factory\Builder\obj\Debug\Builder.exe
 C:\Users\antonio.guillemin\source\repos\Factory\Builder\obj\Debug\Builder.pdb
+C:\Eventos\Patrones\Factory\Builder\bin\Debug\Builder.exe.config
+C:\Eventos\Patrones\Factory\Builder\bin\Debug\Builder.exe
+C:\Eventos\Patrones\Factory\Builder\bin\Debug\Builder.pdb
+C:\Eventos\Patrones\Factory\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Eventos\Patrones\Factory\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Eventos\Patrones\Factory\Builder\obj\Debug\Builder.exe
+C:\Eventos\Patrones\Factory\Builder\obj\Debug\Builder.pdb

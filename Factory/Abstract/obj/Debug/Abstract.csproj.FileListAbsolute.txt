@@ -5,3 +5,10 @@ C:\Users\antonio.guillemin\source\repos\Factory\Abstract\obj\Debug\Abstract.cspr
 C:\Users\antonio.guillemin\source\repos\Factory\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
 C:\Users\antonio.guillemin\source\repos\Factory\Abstract\obj\Debug\Abstract.exe
 C:\Users\antonio.guillemin\source\repos\Factory\Abstract\obj\Debug\Abstract.pdb
+C:\Eventos\Patrones\Factory\Abstract\bin\Debug\Abstract.exe.config
+C:\Eventos\Patrones\Factory\Abstract\bin\Debug\Abstract.exe
+C:\Eventos\Patrones\Factory\Abstract\bin\Debug\Abstract.pdb
+C:\Eventos\Patrones\Factory\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\Eventos\Patrones\Factory\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Eventos\Patrones\Factory\Abstract\obj\Debug\Abstract.exe
+C:\Eventos\Patrones\Factory\Abstract\obj\Debug\Abstract.pdb

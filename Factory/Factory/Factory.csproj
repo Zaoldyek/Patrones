@@ -43,8 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BotonHTML.cs" />
+    <Compile Include="BotonJAVA.cs" />
+    <Compile Include="Button.cs" />
+    <Compile Include="BotonWindows.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="creator.cs" />
+    <Compile Include="HTMLCreator.cs" />
+    <Compile Include="JAVACreator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WindowsCreator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

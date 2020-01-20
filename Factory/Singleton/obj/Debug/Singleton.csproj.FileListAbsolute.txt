@@ -5,3 +5,10 @@ C:\Users\antonio.guillemin\source\repos\Factory\Singleton\obj\Debug\Singleton.cs
 C:\Users\antonio.guillemin\source\repos\Factory\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
 C:\Users\antonio.guillemin\source\repos\Factory\Singleton\obj\Debug\Singleton.exe
 C:\Users\antonio.guillemin\source\repos\Factory\Singleton\obj\Debug\Singleton.pdb
+C:\Eventos\Patrones\Factory\Singleton\bin\Debug\Singleton.exe.config
+C:\Eventos\Patrones\Factory\Singleton\bin\Debug\Singleton.exe
+C:\Eventos\Patrones\Factory\Singleton\bin\Debug\Singleton.pdb
+C:\Eventos\Patrones\Factory\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Eventos\Patrones\Factory\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Eventos\Patrones\Factory\Singleton\obj\Debug\Singleton.exe
+C:\Eventos\Patrones\Factory\Singleton\obj\Debug\Singleton.pdb
